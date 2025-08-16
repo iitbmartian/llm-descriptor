@@ -28,7 +28,7 @@ Follow the steps below to set up your environment and get started.
 ## How to Run
 
 ```bash
-python3 llm_descriptor test1.jpg
+python3 llm_descriptor YOUR_IMAGE_FILEPATH
 ```
 
 ---
